@@ -1,10 +1,4 @@
-  //
-//  ContentView.swift
-//  Meditation
-//
-//  Created by Eva Chen on 1/18/20.
-//  Copyright © 2020 Eva Chen. All rights reserved.
-//
+
 
 import SwiftUI
 import WebKit
