@@ -321,7 +321,7 @@ struct ContentView: View {
                     .edgesIgnoringSafeArea(.all)
                 VStack {
                     HStack{
-                        Text("Josephine Lo").padding().font(.custom("AvenirLTStd-Medium", size: 50))
+                        Text("Tyler Tran").padding().font(.custom("AvenirLTStd-Medium", size: 50))
                         .frame(width: 350, height: 150, alignment: .center)
                         .background(Color(red: 0.93, green: 0.91, blue: 0.67))
                         .cornerRadius(20)
